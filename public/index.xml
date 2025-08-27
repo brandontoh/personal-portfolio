@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Brandon Toh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Brandon Toh</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>A test page.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi all, I’m a newbie in cybersecurity and currently trying to learn AI too.&lt;/p&gt;&#xA;&lt;p&gt;I hold a Bachelor’s degree from the University of Singapore. During my studies, I developed an interest in cybersecurity and have been in the industry since I graduated two years ago.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>http://localhost:1313/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/swisskyrepo/PayloadsAllTheThings&#34;&gt;PayloadsAllTheThings&lt;/a&gt; &lt;br&gt;&#xA;A list of useful payloads and bypass for Web Application Security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://orange-cyberdefense.github.io/ocd-mindmaps/&#34;&gt;Orange Cyber Defense Mindmap&lt;/a&gt; &lt;br&gt;&#xA;An amazing offensive Active Directory mindmap.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
